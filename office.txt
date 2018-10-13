@@ -1,4 +1,3 @@
 Hi, Manager
 Hi, senior
-Hi, lead2
-
+Hi, Lead
