@@ -1,2 +1,3 @@
 Hi, principal
 Hi, teacher
+Hi,student
